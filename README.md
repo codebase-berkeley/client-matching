@@ -10,6 +10,6 @@ This is a jupyter notebook for matching teams and developers for CodeBase.
 	- edit `num_teams`
 	- edit `num_devs`
 	- edit `max_team_size`
-	- in `cell 6`, replace team name keys. (`ATLASSIAN` should be replaced with the name of the team in leftmost ranking column).
+	- in `cell 6`, replace team name keys. (`ATLASSIAN` should be replaced with the name of the team in leftmost ranking column in `team_ranking.csv`).
 4. Run all cells in `stable_marriage.ipynb`
 5. Open `stable_matching.txt` to check results.
